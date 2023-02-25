@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 **Don't hesitate to have a link with me!**
 
-![xban's GitHub stats](https://github-readme-stats.vercel.app/api?username=inannan423&show_icons=true&theme=radical)
+![xban's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwxb&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inannan423&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwxb&layout=compact)
 
-[![XBan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=inannan423&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![XBan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xwxb&theme=react-dark&hide_border=true)
 
 
  🎃 My Projects 🎃
