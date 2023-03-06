@@ -21,6 +21,10 @@ Here are some ideas to get you started:
  
 🌱 I’m currently learning `Golang`, `Redis` 
  
+✨ A bit insanely interested in the various apps of AI
+
+(and look forward to future learning)
+ 
 👑 My personal site: https://xblc.netlify.app/  
  
 📫 How to reach me: x_ban@bjfu.edu.cn
